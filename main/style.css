@@ -1,0 +1,55 @@
+/* CSS Document */
+
+main {
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+        background-image: url(images1.jpg);
+}
+.header {
+	background-image: url(images.jpg);
+	float: left;
+	height: 100px;
+	width: 100%;
+}
+.container {
+	float: left;
+	width: 100%;
+}
+.footer {
+	float: left;
+	width: 100%;
+}
+.divstyle
+{
+	margin-right:15%;
+	margin-left:15%;
+	border-bottom-left-radius:25px;
+	border-bottom-right-radius:25px;
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:inherit;
+	color:#FFFFFF;
+	background-color:#04FF88;
+	text-align: center;
+ 	
+}
+
+.table{
+	bgcolor="#04FF88";
+	background: #04FF88;
+}
+
+.menu {
+	float: left;
+	width: 100%;
+}
+.left {
+	float: left;
+	width: 25%;
+}
+.right {
+	float: right;
+	width: 70%;
+}
